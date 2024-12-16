@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sammy-Portfolio/static/css/main.45998661.css",
+    "main.js": "/Sammy-Portfolio/static/js/main.b66ddfb6.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Sammy-Portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/News.png": "/Sammy-Portfolio/static/media/News.97335897f2943bd788ae.png",
+    "static/media/Around The US.png": "/Sammy-Portfolio/static/media/Around The US.e2a29741ae5f77728eb0.png",
+    "static/media/Coffee Shop.png": "/Sammy-Portfolio/static/media/Coffee Shop.6b2deb12d66d9a35229c.png",
+    "static/media/What to wear.png": "/Sammy-Portfolio/static/media/What to wear.37767d45ddef822e54ad.png",
+    "static/media/background.png": "/Sammy-Portfolio/static/media/background.5e9fff827e191c23cda6.png",
+    "static/media/Avatar.jpg": "/Sammy-Portfolio/static/media/Avatar.fcba1138a44cfebf4baf.jpg",
+    "static/media/background-white.png": "/Sammy-Portfolio/static/media/background-white.9db655d02a7a19515ec5.png",
+    "index.html": "/Sammy-Portfolio/index.html",
+    "main.45998661.css.map": "/Sammy-Portfolio/static/css/main.45998661.css.map",
+    "main.b66ddfb6.js.map": "/Sammy-Portfolio/static/js/main.b66ddfb6.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Sammy-Portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45998661.css",
+    "static/js/main.b66ddfb6.js"
+  ]
+}
