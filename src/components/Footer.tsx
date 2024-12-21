@@ -1,4 +1,3 @@
-import React from "react";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import "../assets/styles/Footer.scss";
@@ -18,17 +17,7 @@ function Footer() {
           <LinkedInIcon />
         </a>
       </div>
-      <p>
-        A portfolio designed & built by{" "}
-        <a
-          href="https://github.com/yujisatojr/react-portfolio-template"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Sammy Tabally
-        </a>{" "}
-        with ❤️
-      </p>
+      <p>&copy; 2024 Sammy Tabally. All rights reserved.</p>
     </footer>
   );
 }
